@@ -1,0 +1,27 @@
+/* body {
+    padding: 2rem;
+}
+
+nav {
+    margin-bottom: 2rem;
+} */
+
+#content {
+  padding: 2rem;
+}
+
+#homeImage {
+  width: 100%;
+  height: 25rem;
+  background: url(http://www.amwax.net/Images/t3.jpg);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2rem;
+}
+
+.contentP {
+  white-space: pre-wrap;
+}
